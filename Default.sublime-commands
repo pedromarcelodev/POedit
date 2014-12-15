@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Insert PO header",
+        "command": "poedit_headers"
+    },
+    {
+        "caption": "Insert PO msgid",
+        "command": "poedit_msgid"
+    }
+]
