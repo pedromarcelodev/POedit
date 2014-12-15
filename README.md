@@ -1,7 +1,7 @@
 POedit
 ======
 
-<h2>Plugin para Sublime Text</h2>
+<h3>Plugin para Sublime Text</h3>
 <br>
 
 Este plugin foi feito para a IDE Sublime Text com o intuíto de agilizar a criação de arquivos .po, utilizados para traduções.
