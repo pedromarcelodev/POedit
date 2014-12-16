@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+alt+shift+h"], "command": "poedit_headers" },
+	{ "keys": ["ctrl+alt+shift+i"], "command": "poedit_msgid" }
+]
