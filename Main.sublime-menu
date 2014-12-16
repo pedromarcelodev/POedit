@@ -1,0 +1,25 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "POedit",
+                "id": "poedit",
+                "children":
+                [
+                    {
+                        "command": "poedit_headers",
+                        "caption": "Insert PO header"
+                    },
+                    {
+                        "command": "poedit_msgid",
+                        "caption": "Insert new msgid"
+                    }
+                ]
+            }
+        ]
+    }
+]
