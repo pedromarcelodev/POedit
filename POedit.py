@@ -25,6 +25,8 @@ class PoeditHeadersCommand(sublime_plugin.TextCommand):
 		headers += '\n'
 		headers += r'"Content-Transfer-Encoding: ENCODING\n"'
 		headers += '\n'
+		headers += r'"Plural-Forms: nplurals=2; plural=(n > 1);\n"'
+		headers += '\n'
 
 		self.view.insert(edit, 0, headers)
 
